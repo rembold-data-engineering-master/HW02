@@ -1,2 +1,14 @@
-# HW02
-Starting materials for Homework 2
+# Homework 02
+
+Contained within the `data` folder are several CSVs and markdown files describing the columns of those CSVs. For each problem you will need to
+* Create a table within your database with appropriate data types
+* Import the information from the appropriate CSV into that table
+* Use the table to answer the questions given in the PDF, including possibly exporting information back out to another CSV file
+
+Make sure when all is said and done that you have uploaded material that contains:
+* The commands you used to create and import data into each of your tables
+* The solutions to the given questions and commands showing what query(ies) you ran to answer that question
+* Your newly created CSV files from questions that required an export
+
+
+Due: January 27, 2022
