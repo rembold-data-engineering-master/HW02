@@ -1,6 +1,7 @@
 # New Years Resolution's Column Information
 
 | Column Name         | Description                                                                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | other_topic         | Secondary themes or topics that showed up in the resolution                                                                                     |
 | resolution_topics   | Primary themes or topics that showed up in the resolution                                                                                       |
 | gender              | The gender of the writer                                                                                                                        |
