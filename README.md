@@ -7,4 +7,4 @@ Contained within the `data` folder are several CSVs and markdown files describin
 
 Make sure when all is said and done that you have uploaded material that contains:
 * The completed template files with your solutions and SQL commands
-* Your newly created CSV files from questions that required an export
+* **Your newly created CSV files from questions that required an export**

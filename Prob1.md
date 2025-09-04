@@ -1,6 +1,6 @@
 # Problem 1
 - I worked with (if anyone):
-- Link to AI transcript (if used):
+- Link to AI/LLM transcript (if used):
 
 Fill out the table creation command below with appropriate columns and types
 ```sql

@@ -1,6 +1,6 @@
-# Problem 2
+# Problem 3
 - I worked with (if anyone):
-- Link to AI transcript (if used):
+- Link to AI/LLM transcript (if used):
 
 ## Precursors
  - SQL to generate needed table
